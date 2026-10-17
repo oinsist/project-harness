@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目 Harness"
+  short_description: "开发与维护项目时建立进度、模块约定和可独立运行的测试闭环"
+  default_prompt: "使用 $project-harness 处理这个项目的开发或维护任务，完成后同步进度、模块说明与测试，并给出我可独立运行的验收入口。"
